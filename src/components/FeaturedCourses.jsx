@@ -30,7 +30,7 @@ const FeaturedCourses = () => {
             >
               <div className="position-relative">
                 <img
-                  src={`http://localhost:5173/src/assets/courses/${course.image}`}
+                  src={`/assets/courses/${course.image}`}
                   alt={course.title}
                   className="card-img-top feature-card"
                 />
