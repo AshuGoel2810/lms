@@ -1,0 +1,34 @@
+
+.welcome_page {
+    background-image: url('../assets/bannerImage.png');
+    height: calc(100vh - 80px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #000;
+    position: relative;
+}
+
+.banner-content {
+    max-width: 600px;
+}
+
+.banner-title {
+    font-size: 3rem;
+    color: #000;
+}
+
+.banner-subtext {
+    margin: 20px 0;
+    font-size: 1rem;
+    color: #444;
+}
+
+.btn-warning {
+    background-color: #ff6b35;
+    border: none;
+}
+
+.btn-warning:hover {
+    background-color: #e55a2a;
+}

@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Create An LMS Website With LearnPress",
+      "instructor": "DeterminedPoints",
+      "weeks": "2 Weeks",
+      "students": 156,
+      "price": "$29.0",
+      "offer": "Free",
+      "category": "Photography",
+      "image": "one.png"
+    },
+    {
+      "id": 2,
+      "title": "Design A Website With ThimPress",
+      "instructor": "DeterminedPoints",
+      "weeks": "2 Weeks",
+      "students": 156,
+      "price": "$59.0",
+      "offer": "$49.0",
+      "category": "Photography",
+      "image": "two.png",
+      "highlight": true
+    },
+    {
+      "id": 3,
+      "title": "Marketing Fundamentals",
+      "instructor": "InspireCourses",
+      "weeks": "3 Weeks",
+      "students": 98,
+      "price": "$39.0",
+      "offer": "Free",
+      "category": "Marketing",
+      "image": "three.png"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Photoshop Tricks",
+      "instructor": "PhotoMaster",
+      "weeks": "4 Weeks",
+      "students": 234,
+      "price": "$79.0",
+      "offer": "$59.0",
+      "category": "Design",
+      "image": "four.png"
+    },
+    {
+      "id": 5,
+      "title": "React for Beginners",
+      "instructor": "CodeCamp",
+      "weeks": "3 Weeks",
+      "students": 185,
+      "price": "$49.0",
+      "offer": "Free",
+      "category": "Development",
+      "image": "five.png"
+    },
+    {
+      "id": 6,
+      "title": "Mastering Videography",
+      "instructor": "FilmSchool",
+      "weeks": "6 Weeks",
+      "students": 122,
+      "price": "$99.0",
+      "offer": "$79.0",
+      "category": "Videography",
+      "image": "one.png"
+    },
+    {
+      "id": 7,
+      "title": "Finance 101",
+      "instructor": "FinEdu",
+      "weeks": "2 Weeks",
+      "students": 143,
+      "price": "$29.0",
+      "offer": "Free",
+      "category": "Finance",
+      "image": "two.png"
+    },
+    {
+      "id": 8,
+      "title": "Creative Writing Basics",
+      "instructor": "Wordsmiths",
+      "weeks": "3 Weeks",
+      "students": 198,
+      "price": "$45.0",
+      "offer": "$35.0",
+      "category": "Writing",
+      "image": "three.png"
+    },
+    {
+      "id": 9,
+      "title": "Networking Essentials",
+      "instructor": "NetGenius",
+      "weeks": "5 Weeks",
+      "students": 166,
+      "price": "$69.0",
+      "offer": "$49.0",
+      "category": "Networking",
+      "image": "four.png"
+    }
+  ]
+  

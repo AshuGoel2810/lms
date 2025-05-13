@@ -1,0 +1,30 @@
+.blog-title {
+    color: #1d3557;
+    font-size: 2rem;
+  }
+  
+  .blog-content {
+    line-height: 1.8;
+    color: #555;
+  }
+  
+  .comment-box {
+    background: #f8f9fa;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .sidebar h5 {
+    border-left: 4px solid #ff6a00;
+    padding-left: 0.5rem;
+  }
+  
+  .nav-article h6 {
+    cursor: pointer;
+    color: #ff6a00;
+    transition: color 0.3s;
+  }
+  
+  .nav-article h6:hover {
+    color: #ff6a00;
+  }
+  

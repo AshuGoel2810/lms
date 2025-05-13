@@ -1,0 +1,14 @@
+{
+  "courses": [
+    { "name": "Art & Design", "icon": "fa-palette", "type": "Creative" },
+    { "name": "Development", "icon": "fa-code", "type": "Tech" },
+    { "name": "Communication", "icon": "fa-recycle", "type": "Soft Skills" },
+    { "name": "Videography", "icon": "fa-film", "type": "Media" },
+    { "name": "Photography", "icon": "fa-video", "type": "Media" },
+    { "name": "Marketing", "icon": "fa-chart-line", "type": "Business" },
+    { "name": "Content Writing", "icon": "fa-file-lines", "type": "Writing" },
+    { "name": "Finance", "icon": "fa-coins", "type": "Business" },
+    { "name": "Science", "icon": "fa-atom", "type": "STEM" },
+    { "name": "Network", "icon": "fa-project-diagram", "type": "Tech" }
+  ]
+}

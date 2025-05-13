@@ -1,0 +1,42 @@
+:root {
+  /* Fonts */
+  --main-font: 'Poppins', sans-serif;
+
+  /* Font Sizes */
+  --font-xs: 0.75rem;   /* Extra Small */
+  --font-sm: 0.875rem;  /* Small */
+  --font-md: 1rem;      /* Medium */
+  --font-lg: 1.25rem;   /* Large */
+  --font-xl: 1.5rem;    /* Extra Large */
+  --font-xxl: 2rem;     /* 2x Extra Large */
+
+  --margin-l: 10px;
+
+  /* Colors */
+ 
+  --primary-color: #007bff;
+  --secondary-color: #6c757d;
+  --bg-color:  #ff6a00;
+  --text-color: #212529;
+
+  /* Width and Height */
+  --default-width: 100%;
+  --default-height: auto;
+  --container-width: 1200px;
+  --header-height: 60px;
+}
+*{ font-family: var(--main-font);}
+.g-clr{color: var(--bg-color);}
+.hw-avatar{width: 50px; height: 50px;}
+
+.login-fnt{font-size: var(--font-sm);}
+.login-w{width: 350px;}
+.cursor-p {
+  cursor: 'pointer'
+}
+
+.feature-card {height: 180px;  object-fit: cover }
+.footer-section{  width: 40px ; height: 40px;}
+.header-search-icon{margin-left: var(--margin-l);}
+
+

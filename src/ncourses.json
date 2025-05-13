@@ -1,0 +1,203 @@
+[
+    {
+      "title": "Create An LMS Website With LearnPress",
+      "author": "DeterminedProAshu",
+      "duration": "2 Weeks",
+      "students": "156 Students",
+      "level": "All levels",
+      "lessons": "20 Lessons",
+      "price": "$29.0",
+      "image": "one.jpg "
+    },
+    {
+      "title": "Master React in 30 Days",
+      "author": "CodeWithSara",
+      "duration": "1 Month",
+      "students": "320 Students",
+      "level": "Intermediate",
+      "lessons": "30 Lessons",
+      "price": "$39.0",
+      "image": "two.jpg"
+    },
+    {
+      "title": "The Complete JavaScript Guide",
+      "author": "JSNinjaDev",
+      "duration": "3 Weeks",
+      "students": "500 Students",
+      "level": "Beginner",
+      "lessons": "25 Lessons",
+      "price": "$25.0",
+      "image": "three.jpg"
+    },
+    {
+      "title": "Python for Data Science Bootcamp",
+      "author": "Dr. Data",
+      "duration": "5 Weeks",
+      "students": "780 Students",
+      "level": "All levels",
+      "lessons": "40 Lessons",
+      "price": "$45.0",
+      "image": "four.jpg"
+    },
+    {
+      "title": "Full Stack Web Development",
+      "author": "WebWizard",
+      "duration": "2 Months",
+      "students": "1120 Students",
+      "level": "Advanced",
+      "lessons": "60 Lessons",
+      "price": "$59.0",
+      "image": "five.jpg"
+    },
+    {
+      "title": "UI/UX Design Mastery",
+      "author": "DesignGuru",
+      "duration": "3 Weeks",
+      "students": "280 Students",
+      "level": "Intermediate",
+      "lessons": "18 Lessons",
+      "price": "$35.0",
+      "image": "six.jpg"
+    },
+    {
+      "title": "Build Mobile Apps With React Native",
+      "author": "MobileProDev",
+      "duration": "4 Weeks",
+      "students": "410 Students",
+      "level": "All levels",
+      "lessons": "28 Lessons",
+      "price": "$42.0",
+      "image": "seven.jpg"
+    },
+    {
+      "title": "Node.js From Scratch",
+      "author": "BackendBoss",
+      "duration": "2 Weeks",
+      "students": "180 Students",
+      "level": "Beginner",
+      "lessons": "15 Lessons",
+      "price": "$20.0",
+      "image": "eight.jpg"
+    },
+    {
+      "title": "Mastering Git & GitHub",
+      "author": "DevControl",
+      "duration": "1 Week",
+      "students": "240 Students",
+      "level": "Beginner",
+      "lessons": "12 Lessons",
+      "price": "$15.0",
+      "image": "nine.jpg"
+    },
+    {
+      "title": "AWS Cloud Practitioner Essentials",
+      "author": "CloudChamp",
+      "duration": "3 Weeks",
+      "students": "360 Students",
+      "level": "Intermediate",
+      "lessons": "22 Lessons",
+      "price": "$49.0",
+      "image": "ten.jpg"
+    },
+    {
+      "title": "SQL for Beginners",
+      "author": "DataWizard",
+      "duration": "2 Weeks",
+      "students": "210 Students",
+      "level": "Beginner",
+      "lessons": "16 Lessons",
+      "price": "$19.0",
+      "image": "elven.jpg"
+    },
+    {
+      "title": "Django Full Course",
+      "author": "PythonPro",
+      "duration": "1 Month",
+      "students": "310 Students",
+      "level": "All levels",
+      "lessons": "35 Lessons",
+      "price": "$37.0",
+      "image": "twlve.jpg"
+    },
+    {
+      "title": "DevOps Fundamentals",
+      "author": "OpsMaster",
+      "duration": "4 Weeks",
+      "students": "430 Students",
+      "level": "Intermediate",
+      "lessons": "26 Lessons",
+      "price": "$55.0",
+      "image": "thrteen.jpg"
+    },
+    {
+      "title": "C++ Programming Essentials",
+      "author": "CodeMonk",
+      "duration": "3 Weeks",
+      "students": "260 Students",
+      "level": "Beginner",
+      "lessons": "21 Lessons",
+      "price": "$27.0",
+      "image": "fourteen.jpg"
+    },
+    {
+      "title": "Machine Learning with Python",
+      "author": "MLHero",
+      "duration": "6 Weeks",
+      "students": "690 Students",
+      "level": "Advanced",
+      "lessons": "45 Lessons",
+      "price": "$60.0",
+      "image": "fiveteen.jpg"
+    },
+    {
+      "title": "Cyber Security Basics",
+      "author": "SecureNet",
+      "duration": "2 Weeks",
+      "students": "350 Students",
+      "level": "All levels",
+      "lessons": "19 Lessons",
+      "price": "$33.0",
+      "image": "sixteen.jpg"
+    },
+    {
+      "title": "Kotlin for Android Development",
+      "author": "AndroidDevAsh",
+      "duration": "4 Weeks",
+      "students": "298 Students",
+      "level": "Intermediate",
+      "lessons": "24 Lessons",
+      "price": "$39.0",
+      "image": "sventeen.jpg"
+    },
+    {
+      "title": "GraphQL Crash Course",
+      "author": "APIWizard",
+      "duration": "1 Week",
+      "students": "190 Students",
+      "level": "Advanced",
+      "lessons": "10 Lessons",
+      "price": "$22.0",
+      "image": "one.jpg "
+    },
+    {
+      "title": "Tailwind CSS In Depth",
+      "author": "CSSNinja",
+      "duration": "2 Weeks",
+      "students": "220 Students",
+      "level": "All levels",
+      "lessons": "14 Lessons",
+      "price": "$18.0",
+      "image": "two.jpg"
+    },
+    {
+      "title": "Building REST APIs with Express",
+      "author": "NodeCraft",
+      "duration": "3 Weeks",
+      "students": "340 Students",
+      "level": "Intermediate",
+      "lessons": "20 Lessons",
+      "price": "$30.0",
+      "image": "three.jpg"
+    }
+  ]
+  
