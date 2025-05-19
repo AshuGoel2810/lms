@@ -34,7 +34,7 @@ const CoursePage = () => {
               {ncourses.map((course, i) => (
                 <div key={i} className={`card mb-3 ${view === 'grid' ? 'col-md-6 mb-4' : 'flex-row col-12'}`}>
                   <img
-                    src={`http://localhost:5173/src/assets/fcourse/${course.image}`}
+                    src={`/assets/fcourse/${course.image}`}
                     className={`img-fluid ${view === 'grid' ? '' : 'w-25 object-fit-cover'}`}
                     alt="Course"
                   />
