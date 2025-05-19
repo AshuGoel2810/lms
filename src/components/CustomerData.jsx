@@ -1,5 +1,5 @@
 import React from 'react';
-import grow from '../assets/grow.png'
+import grow from '/assets/grow.png'
 
 const CustomerData = () => {
     const stats = [

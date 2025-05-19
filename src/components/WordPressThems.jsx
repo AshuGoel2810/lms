@@ -1,5 +1,5 @@
 import React from 'react';
-import mark from '../assets/mask_groupTwo.png'
+import mark from '/assets/mask_groupTwo.png'
 
 const WordPressThems = () => {
   return (

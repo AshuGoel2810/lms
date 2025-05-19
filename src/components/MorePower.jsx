@@ -1,5 +1,5 @@
 import React from 'react';
-import mask_group from '../assets/mask_group.png';
+import mask_group from '/assets/mask_group.png';
 
 const Banner = () => {
   return (

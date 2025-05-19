@@ -1,6 +1,6 @@
 
 .welcome_page {
-    background-image: url('../assets/bannerImage.png');
+    background-image: url('/assets/bannerImage.png');
     height: calc(100vh - 80px);
     background-size: cover;
     background-repeat: no-repeat;

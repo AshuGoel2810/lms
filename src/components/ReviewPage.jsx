@@ -2,7 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar, faReply } from '@fortawesome/free-solid-svg-icons';
-import review from '../assets/review.png';
+import review from '/assets/review.png';
 
 export default function ReviewPage() {
   const stars = [5, 4, 3, 2, 1];
